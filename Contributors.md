@@ -24,6 +24,7 @@
 - [Dhanam](https://github.com/Dhanam77)
 - [Daemon1024](https://github.com/daemon1024)
 - [Devil-Echo]
+- [Akash Dwivedi](https://github.com/bunnysworld)
 - [Tyler Lawton](https://github.com/thor-molecules)
 - [Kwon Hur](https://github.com/kwonhur)
 - [Dominic London](https://github.com/djlondon)
